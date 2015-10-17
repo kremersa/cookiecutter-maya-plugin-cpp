@@ -1,0 +1,9 @@
+{"plugin_name": "myPlugin",
+ "repo_name": "{{cookiecutter.plugin_name|lower}}",
+ "author": "Sascha Kremers",
+ "plugin_type": ["deformer", "node", "cmd"],
+ "maya_version": "2016",
+ "version": "0.1",
+ "requiredApiVersion": "Any",
+ "maya_typeId": "0x0000000"
+}
